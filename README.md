@@ -1,4 +1,4 @@
-## Future Forecasting on Cab Data
+## Future Prediction on Cab Data
 
 Excited to share a recent achievement as a Data Analyst Team Leader at Betechnos Technology Private Limited!
 
