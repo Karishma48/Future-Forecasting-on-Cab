@@ -1,4 +1,5 @@
-🚖 #Future Forecasting on Cab Data
+#Future Forecasting on Cab Data
+
 Excited to share a recent achievement as a Data Analyst Team Leader at Betechnos Technology Private Limited!
 
 In this project, I developed an optimization model for future demand forecasting in the cab industry using Python. The workflow included:
